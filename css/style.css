@@ -35,3 +35,7 @@ body {
     font-style: italic;
 
 }
+
+.timeline-turing li{
+    margin: 0 0 10px 0;
+}
